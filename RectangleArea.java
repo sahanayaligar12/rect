@@ -1,5 +1,3 @@
-package Rect;
-
 public class RectangleArea {
     
     private double length;
