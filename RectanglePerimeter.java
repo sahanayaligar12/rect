@@ -1,5 +1,3 @@
-package Rect;
-
 public class RectanglePerimeter {
     
     private double length;
